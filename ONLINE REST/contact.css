@@ -1,0 +1,16 @@
+body{
+    background-image: url('image/contact.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+div{
+    margin-top: 100px;
+    margin-left: 400px;
+    color: antiquewhite;
+    font-size: xx-large;
+    
+}
+img{
+    margin-top: 10px;
+    margin-left: 700px;
+}

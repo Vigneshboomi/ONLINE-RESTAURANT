@@ -1,0 +1,62 @@
+body{
+    background-image: url('image/nav home.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+a{
+    color : antiquewhite;
+    font-size: xx-large;
+}
+div{
+    font-style: italic;
+    margin-top: 80px;
+    margin-left: 50px;
+    word-spacing: 30px;
+    text-shadow: 1px 1px;
+
+}
+
+.para1{
+    color: antiquewhite;
+    font-size: xx-large;
+    margin-left: 120px;
+    margin-top: 80px;
+    font-style: italic;
+    text-shadow: 1px 1px;
+}
+.para2{
+    color: antiquewhite;
+    font-size: xx-large;
+    margin-left: 180px;
+    margin-top: 10px;
+    font-style: italic;
+    text-shadow: 1px 1px;
+}
+.para3{
+    color: antiquewhite;
+    font-size: xx-large;
+    margin-left: 50px;
+    margin-top: 80px;
+    font-style: italic;
+    text-shadow: 1px 1px;
+    margin-right: 500px;
+}
+.para4{
+    color:antiquewhite;
+    font-size: xx-large;
+    margin-left: 180px;
+    margin-top: 10px;
+    font-style: italic;
+    text-shadow: 1px 1px;
+    
+}
+.para5{
+    color:antiquewhite;
+    font-size: xx-large;
+    margin-left: 100px;
+    margin-right: 850px;
+    margin-top: 50px;
+    font-style: italic;
+    text-shadow: 1px 1px;
+
+}

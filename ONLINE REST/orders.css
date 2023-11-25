@@ -1,0 +1,17 @@
+body{
+    background-image: url('image/orders page.avif');
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+div{
+    color: antiquewhite;
+    font-size: xx-large; 
+    margin-top: 100px;
+    margin-left: 300px;
+    font-style: italic;
+}
+a{
+    color: antiquewhite;
+    font-size: xx-large; 
+
+}
